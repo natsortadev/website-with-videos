@@ -1,6 +1,3 @@
-<a href="#" onclick="BR()"><img src="https://img.shields.io/badge/%20PT&#8208;BR-yellow.svg?style=for-the-badge"></a>
-<a href="https://github.com/nat-thunder/website-with-videos/blob/main/README.md"><img src="https://img.shields.io/badge/%20EN-blue.svg?style=for-the-badge"></a>
-
 # 📺 website com recomendações de vídeos
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 > um site com quatro dos meus vídeos favoritos do YouTube
